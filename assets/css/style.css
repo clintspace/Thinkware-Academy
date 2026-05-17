@@ -227,7 +227,7 @@ p.section-title-white{color:#fff;}
   position: relative;
 }
 .loader::after {
-  content: 'Loading';
+  content: 'THINKWARE';
   position: absolute;
   left: 0;
   top: 0;
@@ -284,7 +284,7 @@ p.section-title-white{color:#fff;}
   transition-duration: 0.3s;
 }
 .btn_one:before {
-  content: "";
+  content: "THINKWARE";
   position: absolute;
   z-index: -1;
   top: 0;
